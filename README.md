@@ -1,2 +1,3 @@
 # happygogoPreview
-修改host为https
+
+重新修改为 http
