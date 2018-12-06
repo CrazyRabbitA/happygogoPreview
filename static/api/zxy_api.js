@@ -5,4 +5,5 @@ import axios from 'axios'
 // let base = 'http://10.7.17.19:8083' // 国栋本地ip
 // let base = 'http://10.7.100.104:8084' // 王英本地ip
 
-export const base = '/api';
+// export const base = '/api';
+export const base = 'http://movie.dlintech.com:8080';
