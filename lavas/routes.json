@@ -1,0 +1,97 @@
+{
+    "mode": "hash",
+    "base": "/",
+    "routes": [
+        {
+            "path": "/appshell",
+            "name": "appshell",
+            "meta": {}
+        },
+        {
+            "path": "/",
+            "name": "index",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/login",
+            "name": "loginRegisterLogin",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/loginemail",
+            "name": "loginRegisterLoginemail",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/loginregister",
+            "name": "loginRegisterLoginregister",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/resetresult",
+            "name": "loginRegisterResetresult",
+            "meta": {}
+        },
+        {
+            "path": "/map-details/lineid-detail",
+            "name": "mapDetailsLineidDetail",
+            "meta": {}
+        },
+        {
+            "path": "/map-details/stopid-line-detail",
+            "name": "mapDetailsStopidLineDetail",
+            "meta": {}
+        },
+        {
+            "path": "/me/help",
+            "name": "meHelp",
+            "meta": {}
+        },
+        {
+            "path": "/me/language",
+            "name": "meLanguage",
+            "meta": {}
+        },
+        {
+            "path": "/me/me",
+            "name": "meMe",
+            "meta": {}
+        },
+        {
+            "path": "/search",
+            "name": "search",
+            "meta": {}
+        },
+        {
+            "path": "/ybs/bus-line",
+            "name": "ybsBusLine",
+            "meta": {}
+        },
+        {
+            "path": "/ybs/bus-stop",
+            "name": "ybsBusStop",
+            "meta": {}
+        },
+        {
+            "path": "/ybs/route-result",
+            "name": "ybsRouteResult",
+            "meta": {}
+        },
+        {
+            "path": "/ybs/search-stop",
+            "name": "ybsSearchStop",
+            "meta": {}
+        },
+        {
+            "path": "/ybs/ybs",
+            "name": "ybsYbs",
+            "meta": {}
+        },
+        {
+            "path": "/error",
+            "name": "error",
+            "meta": {},
+            "alias": "*"
+        }
+    ]
+}

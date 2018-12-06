@@ -1,0 +1,35 @@
+{
+    "start_url": "/?utm_source=homescreen",
+    "name": "happygogo",
+    "short_name": "happygogo",
+    "icons": [
+        {
+            "src": "img/icons/touch-icon-512x512.jpg",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "img/icons/touch-icon-192x192.jpg",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/icons/touch-icon-180x180.jpg",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "img/icons/touch-icon-152x152.jpg",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/icons/touch-icon-144x144.jpg",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#278fef"
+}

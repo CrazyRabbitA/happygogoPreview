@@ -1,0 +1,97 @@
+﻿[
+  {"value":	1	,"propertyTypeId":	1	,"text":"ပံုမွန္တိုက္ခန္း"},
+  
+{"value":	2	,"propertyTypeId":	1	,"text":"ထပ္ခိုးပါတိုက္ခန္း"},
+  
+{"value":	3	,"propertyTypeId":	1	,"text":"ရံုး/အိမ္ႏွစ္ေထြသံုးတိုက္ခန္း"},
+  
+{"value":	4	,"propertyTypeId":	1	,"text":"ဒါဘာ (အမိုးေအာက္တိုက္ခန္း)"},
+  
+{"value":	5	,"propertyTypeId":	1	,"text":"မိုးေမွ်ာ္တိုက္ခန္း"},
+  
+{"value":	6	,"propertyTypeId":	1	,"text":"အသင့္သံုးအဆင့္ျမင့္အခန္းမ်ား"},
+  
+{"value":	7	,"propertyTypeId":	1	,"text":"ေပာာင္ေကာင္စတုိင္"},
+  
+{"value":	8	,"propertyTypeId":	1	,"text":"အျခား"},
+  
+{"value":	9	,"propertyTypeId":	2	,"text":"ကြန္ဒို"},
+  
+{"value":	10	,"propertyTypeId":	2	,"text":"မီနီကြန္ဒို"},
+  
+{"value":	11	,"propertyTypeId":	2	,"text":"မိုးေမွ်ာ္ကြန္ဒို"},
+  
+{"value":	12	,"propertyTypeId":	2	,"text":"ရံုး/အိမ္ႏွစ္ေထြသံုးကြန္ဒို"},
+  
+{"value":	47	,"propertyTypeId":	2	,"text":"အျခား"},
+  
+{"value":	13	,"propertyTypeId":	3	,"text":"အုတ္ခံပ်ဥ္ေထာင္အိမ္"},
+  
+{"value":	14	,"propertyTypeId":	3	,"text":"ပ်ဥ္ေထာင္အိမ္"},
+  
+{"value":	15	,"propertyTypeId":	3	,"text":"RC တိုက္အိမ္"},
+  
+{"value":	16	,"propertyTypeId":	3	,"text":"Single Family"},
+  
+{"value":	17	,"propertyTypeId":	3	,"text":"Multi Family"},
+  
+{"value":	18	,"propertyTypeId":	3	,"text":"Townhouse"},
+  
+{"value":	19	,"propertyTypeId":	3	,"text":"လယ္ေျမ"},
+  
+{"value":	48	,"propertyTypeId":	3	,"text":"Duplex"},
+  
+{"value":	20	,"propertyTypeId":	3	,"text":"အျခား"},
+  
+{"value":	21	,"propertyTypeId":	4	,"text":"ေျမႏွင့္အိမ္"},
+  
+{"value":	22	,"propertyTypeId":	4	,"text":"ဘိုးဘြားပိုင္ေျမ"},
+  
+{"value":	23	,"propertyTypeId":	4	,"text":"လယ္ေျမ/ စိုက္ပ်ိဳးေမြးျမဴေရးျခံ"},
+  
+{"value":	24	,"propertyTypeId":	4	,"text":"ဥယ်ာဥ္ျခံေျမ"},
+  
+{"value":	25	,"propertyTypeId":	4	,"text":"စလစ္ေျမ"},
+  
+{"value":	26	,"propertyTypeId":	4	,"text":"ပါမစ္"},
+  
+{"value":	27	,"propertyTypeId":	4	,"text":"ဂရမ္"},
+  
+{"value":	28	,"propertyTypeId":	4	,"text":"Lot"},
+  
+{"value":	29	,"propertyTypeId":	4	,"text":"Acreage"},
+  
+{"value":	30	,"propertyTypeId":	4	,"text":"အျခား"},
+  
+{"value":	31	,"propertyTypeId":	8	,"text":"စက္မွဳဇံု"},
+  
+{"value":	32	,"propertyTypeId":	8	,"text":"ရံုးခန္း"},
+  
+{"value":	33	,"propertyTypeId":	8	,"text":"စင္တာေစ်းၾကီးမ်ားအတြက္ေနရာ"},
+  
+{"value":	34	,"propertyTypeId":	8	,"text":"စက္မႈသံုးဂိုေထာင္"},
+  
+{"value":	35	,"propertyTypeId":	8	,"text":"အေရာင္းျပခန္း"},
+  
+{"value":	36	,"propertyTypeId":	8	,"text":"ပာိုတယ္"},
+  
+{"value":	37	,"propertyTypeId":	8	,"text":"Medical"},
+  
+{"value":	38	,"propertyTypeId":	8	,"text":"စိုက္ပ်ိဳးေမြးျမဴေရးေနရာ"},
+  
+{"value":	39	,"propertyTypeId":	8	,"text":"အျခား"},
+  
+{"value":	40	,"propertyTypeId":	9	,"text":"တိုက္ခန္း"},
+  
+{"value":	41	,"propertyTypeId":	9	,"text":"ကြန္ဒို"},
+  
+{"value":	42	,"propertyTypeId":	9	,"text":"မီနီကြန္ဒို"},
+  
+{"value":	43	,"propertyTypeId":	9	,"text":"အသင့္သံုးအဆင့္ျမင့္အခန္းမ်ား"},
+  
+{"value":	44	,"propertyTypeId":	9	,"text":"Mixed Project"},
+  
+{"value":	45	,"propertyTypeId":	9	,"text":"စီးပြားေရးႏွင့္ဆိုင္ေသာ"},
+  
+{"value":	46	,"propertyTypeId":	9	,"text":"အိမ္"}
+]

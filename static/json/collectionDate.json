@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Month end",
+    "value": 1
+  },
+  {
+    "text": "One month from move in date",
+    "value": 2
+  },
+  {
+    "text": "none",
+    "value": 3
+  },
+  {
+    "text": "First of month",
+    "value": 4
+  },
+  {
+    "text": "Others",
+    "value": 5
+  }
+]

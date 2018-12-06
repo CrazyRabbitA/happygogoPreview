@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Date (new to old)",
+    "value": "latest desc"
+  },
+  {
+    "text": "Price (low to high)",
+    "value": "price asc"
+  },
+  {
+    "text": "price (high to low)",
+    "value": "price desc"
+  },
+  {
+    "text": "Lks/sqft (low to high)",
+    "value": "psf asc"
+  },
+  {
+    "text": "Lks/sqft (hgih to low)",
+    "value": "psf desc"
+  },
+  {
+    "text": "Size (low to hight)",
+    "value": "floorSize asc"
+  },
+  {
+    "text": "Size (high to low)",
+    "value": "floorSize desc"
+  }
+]

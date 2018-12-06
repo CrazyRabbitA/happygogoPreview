@@ -1,0 +1,14 @@
+[
+  {"value":	1	,"text":"Air Conditioning"},
+  {"value":	2	,"text":"Bathtub"},
+  {"value":	3	,"text":"WaterHeater"},
+  {"value":	4	,"text":"Washing Machine"},
+  {"value":	5	,"text":"Refrigerator"},
+  {"value":	7	,"text":"SittingToilet"},
+  {"value":	8	,"text":"Squatting Toilet"},
+  {"value":	9	,"text":"Renovated"},
+  {"value": 10,"text":"Phone"},
+  {"value": 11,"text":"Teak Parquet"},
+  {"value": 12,"text":"Tile Kitchen"},
+  {"value": 13,"text":"Hall Type"}
+]

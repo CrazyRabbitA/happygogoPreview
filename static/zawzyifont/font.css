@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'ZAWGYIONE';
+	src: url('./ZAWGYIONE.eot');
+	src: local('ZAWGYIONE'), url('./ZAWGYIONE.woff') format('woff'), url('./ZAWGYIONE.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_40615">Text with this font applied</p> */
+.fontsforweb_fontid_40615 {
+	font-family: 'ZAWGYIONE', 'Avenir', Helvetica, Arial, sans-serif !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

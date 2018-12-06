@@ -1,0 +1,14 @@
+[
+  {
+    "text": "1 month rental/30days",
+    "value": 1
+  },
+  {
+    "text": "1 month rental/total days of that month",
+    "value": 2
+  },
+  {
+    "text": "other",
+    "value": 3
+  }
+]

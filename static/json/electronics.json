@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Laptop",
+    "value": 1
+  },
+  {
+    "text": "Fan",
+    "value": 2
+  },
+  {
+    "text": "Hair dryer",
+    "value": 3
+  },
+  {
+    "text": "Iron",
+    "value": 4
+  },
+  {
+    "text": "Refrigerator",
+    "value": 5
+  },
+  {
+    "text": "Air cooler",
+    "value": 6
+  }
+]
